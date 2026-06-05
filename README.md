@@ -96,6 +96,9 @@ retinal-oct-classification/
 ├── README.md                 # This file
 ├── requirements.txt          # Python dependencies
 ├── .gitignore                # Excludes data/cache/model weights
+├── effnet_baseline.pth       # Baseline model weights
+├── effnet_clahe.pth          # Model weights after CLAHE tratsformation
+├── effnet_finetuned.pth      # Fine tunned model weights
 ├── retinal_oct_classification.ipynb  # Main notebook (EDA + Training + Evaluation)
 │
 ├── assets/                   # Figures for README (ROC curves, Grad-CAM, etc.)
