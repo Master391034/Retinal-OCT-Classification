@@ -102,7 +102,3 @@ retinal-oct-classification/
 │   ├── training_curves.png
 │   ├── confusion_matrix.png
 │   └── gradcam_samples.png
-│
-└── results/                  # Serialized metrics (optional)
-    ├── metrics_summary.csv
-    └── training_histories.json
