@@ -1,4 +1,3 @@
-# Retinal OCT Classification
 # Retinal OCT Binary Classification: Transfer Learning vs. Fine-Tuning
 
 
