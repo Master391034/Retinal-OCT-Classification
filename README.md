@@ -1,9 +1,6 @@
 # Retinal OCT Classification
 # Retinal OCT Binary Classification: Transfer Learning vs. Fine-Tuning
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Binary classification of retinal OCT images (Healthy vs. Disease) using EfficientNet-B0 with controlled data leakage removal and GMLP-inspired documentation.**
 
